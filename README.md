@@ -4,4 +4,4 @@ They can handle CRUD operations.
 
 ## Installation
 
-Each contains their own installation instruction.
+Each contain their own installation instruction.
